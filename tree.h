@@ -1,4 +1,3 @@
-
 typedef struct stnoarvore {
 	int dado;
 	struct stnoarvore *esq;
